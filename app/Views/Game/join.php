@@ -1,0 +1,1 @@
+<h1>Salut, vous êtes sur le jeu n°<?php echo $code_game ?></h1>
