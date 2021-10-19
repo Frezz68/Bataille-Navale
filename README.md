@@ -4,13 +4,21 @@
 
 Créer un Fork du projet (cela permettra de ne pas modifier le projet de base lors de votre développement),
 Vous avez le choix de continuer sur github ou sur git,
-    +   git clone "url.git"
+
+    git clone "url.git"
+    
 Dans tous les cas, créer un nouvelle branch au projet qui concernera votre partie du projet actuelle :
-    +   git branch "nom_de_la_branch"
+
+    git branch "nom_de_la_branch"
+    
 Attention à bien se rendre dans la branche pour éditer les fichiers,
-    +   git switch "nom_de_la_branche"
+
+    git switch "nom_de_la_branche"
+    
 Une fois les modifications faites, on peut faire un commit,
-    +   git commit -m "Raison du commit"
+
+    git commit -m "Raison du commit"
+    
 Pour finir faite un pull request pour ajouter vos modifications au projet initial
 
 Pour en savoir plus : https://www.pierre-giraud.com/git-github-apprendre-cours
